@@ -9,7 +9,7 @@ I am going to run Roblox studio on phones but I am learning c and pls support be
 
 I've tried everything. Winlator. VectrasVM. Custom Windows. Nothing worked.
 
-So I'm building my own solution. No x86 emulation. No VM. Just translating Windows API calls to Android.
+So I'm building my own solution. No x86 emulation. No VM. 
 
 It's hard. I'm learning C as I go. But I won't stop.
 
